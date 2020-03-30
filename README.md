@@ -2,4 +2,4 @@
 
 Guesses password to specified PDF in argument.
 
-Designed for use with Al Sweigart's Automate the Boring Stuff with Python: Chapter 13.
+Inspired by Al Sweigart's Automate the Boring Stuff with Python: Chapter 13.
